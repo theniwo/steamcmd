@@ -7,3 +7,4 @@ This is a base image for [theniwo/killingfloor2server](https://github.com/theniw
 
 [disp@mailbox.org](mailto:disp@mailbox.org)
 
+[Docker hub](https://hub.docker.com/r/theniwo/steamcmd)
